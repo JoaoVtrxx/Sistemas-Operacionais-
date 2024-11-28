@@ -1,0 +1,2823 @@
+SO: carga de 'trata_int.maq' em 10-15
+CMD: 'C'
+SO: carga de 'init.maq' em 100-270
+Processo 1 adicionado a tabela.
+SO: Escalonando processo... entra processo 1.
+SO: Despachando processo 1 A: 0 X: 0 PC: 100 na CPU 
+SO: Salvando valores da CPU A: 2 X: 105 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 105 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 110 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 110 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 105 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 105 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 168 X: 0 PC: 266 no processo 1
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 1 A: 168 X: 0 PC: 266 na CPU 
+SO: Salvando valores da CPU A: 2 X: 116 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 116 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 32 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 105 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 105 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 105 X: 0 PC: 264 no processo 1
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 1 A: 105 X: 0 PC: 264 na CPU 
+SO: Salvando valores da CPU A: 2 X: 110 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 110 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 105 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 105 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 99 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 99 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 0 X: 99 PC: 263 no processo 1
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 1 A: 0 X: 99 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 105 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 105 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 97 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 97 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 108 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 108 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 0 X: 108 PC: 263 no processo 1
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 1 A: 0 X: 108 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 105 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 105 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 122 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 122 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 97 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 97 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 0 X: 97 PC: 263 no processo 1
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 1 A: 0 X: 97 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 110 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 110 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 100 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 100 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 111 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 111 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 0 X: 111 PC: 263 no processo 1
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 1 A: 0 X: 111 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 46 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 46 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 46 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 46 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 46 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 46 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 0 X: 46 PC: 263 no processo 1
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 1 A: 0 X: 46 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 10 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 10 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 7 X: 188 PC: 114 no processo 1
+SO: carga de 'p1.maq' em 7000-7241
+Processo 2 adicionado a tabela.
+|--------------------|
+|Tabela de processos:|
+|--------------------|
+|PID: 1  |  estado: 1|
+|PID: 2  |  estado: 0|
+|--------------------|
+SO: Despachando processo 1 A: 2 X: 188 PC: 114 na CPU 
+SO: Salvando valores da CPU A: 7 X: 195 PC: 122 no processo 1
+SO: carga de 'p2.maq' em 8000-8243
+Processo 3 adicionado a tabela.
+|--------------------|
+|Tabela de processos:|
+|--------------------|
+|PID: 1  |  estado: 1|
+|PID: 2  |  estado: 0|
+|PID: 3  |  estado: 0|
+|--------------------|
+SO: Despachando processo 1 A: 3 X: 195 PC: 122 na CPU 
+SO: Salvando valores da CPU A: 7 X: 202 PC: 130 no processo 1
+SO: carga de 'p3.maq' em 9000-9241
+Processo 4 adicionado a tabela.
+|--------------------|
+|Tabela de processos:|
+|--------------------|
+|PID: 1  |  estado: 1|
+|PID: 2  |  estado: 0|
+|PID: 3  |  estado: 0|
+|PID: 4  |  estado: 0|
+|--------------------|
+SO: Despachando processo 1 A: 4 X: 202 PC: 130 na CPU 
+SO: Salvando valores da CPU A: 2 X: 202 PC: 134 no processo 1
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 1 A: 2 X: 202 PC: 134 na CPU 
+SO: Salvando valores da CPU A: 9 X: 2 PC: 138 no processo 1
+SO: Escalonando processo... Sai processo 1, entra processo 2.
+SO: Despachando processo 2 A: 0 X: 0 PC: 7000 na CPU 
+SO: Salvando valores da CPU A: 2 X: 112 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 112 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 49 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 49 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 7004 X: 32 PC: 7155 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 7004 X: 32 PC: 7155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 40 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 40 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 98 X: 7007 PC: 7154 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 98 X: 7007 PC: 7154 na CPU 
+SO: Salvando valores da CPU A: 2 X: 98 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 98 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 97 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 97 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 115 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 115 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 116 X: 7010 PC: 7146 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 116 X: 7010 PC: 7146 na CPU 
+SO: Salvando valores da CPU A: 2 X: 116 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 116 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 97 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 97 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 110 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 110 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 116 X: 7013 PC: 7144 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 116 X: 7013 PC: 7144 na CPU 
+SO: Salvando valores da CPU A: 2 X: 116 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 116 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 101 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 101 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 7016 PC: 7142 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 0 X: 7016 PC: 7142 na CPU 
+SO: Salvando valores da CPU A: 2 X: 67 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 67 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 80 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 80 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 85 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 85 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 7019 PC: 7149 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 0 X: 7019 PC: 7149 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 112 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 112 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 111 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 111 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 7021 PC: 7148 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 0 X: 7021 PC: 7148 na CPU 
+SO: Salvando valores da CPU A: 2 X: 117 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 117 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 99 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 99 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 97 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 97 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 7024 PC: 7164 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 0 X: 7024 PC: 7164 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 69 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 69 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 47 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 47 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 7027 X: 0 PC: 7163 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 7027 X: 0 PC: 7163 na CPU 
+SO: Salvando valores da CPU A: 2 X: 83 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 83 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 41 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 41 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 32 X: 0 PC: 7161 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 32 X: 0 PC: 7161 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 7160 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 7160 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 7160 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 7160 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 7160 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 7160 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 7160 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 7160 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 7160 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 7160 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 7160 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 7160 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 1 X: 7069 PC: 7191 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 1 X: 7069 PC: 7191 na CPU 
+SO: Salvando valores da CPU A: 2 X: 49 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 49 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 100 X: 7069 PC: 7213 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 100 X: 7069 PC: 7213 na CPU 
+SO: Salvando valores da CPU A: 2 X: 48 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 48 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 48 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 48 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 7069 X: 48 PC: 7157 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 7069 X: 48 PC: 7157 na CPU 
+SO: Salvando valores da CPU A: 2 X: 48 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 48 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 47 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 47 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 1 X: 7069 PC: 7193 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 1 X: 7069 PC: 7193 na CPU 
+SO: Salvando valores da CPU A: 2 X: 53 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 53 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 100 X: 7069 PC: 7225 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 100 X: 7069 PC: 7225 na CPU 
+SO: Salvando valores da CPU A: 2 X: 48 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 48 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 48 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 48 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 7069 X: 32 PC: 7157 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 7069 X: 32 PC: 7157 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 91 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 91 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: -997 X: 3 PC: 7134 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -997 X: 3 PC: 7134 na CPU 
+SO: Salvando valores da CPU A: 10 X: 10 PC: 7131 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 10 X: 10 PC: 7131 na CPU 
+SO: Salvando valores da CPU A: 17 X: 17 PC: 7124 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 17 X: 17 PC: 7124 na CPU 
+SO: Salvando valores da CPU A: -977 X: 23 PC: 7122 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -977 X: 23 PC: 7122 na CPU 
+SO: Salvando valores da CPU A: 30 X: 30 PC: 7132 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 30 X: 30 PC: 7132 na CPU 
+SO: Salvando valores da CPU A: 37 X: 37 PC: 7126 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 37 X: 37 PC: 7126 na CPU 
+SO: Salvando valores da CPU A: -957 X: 44 PC: 7123 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -957 X: 44 PC: 7123 na CPU 
+SO: Salvando valores da CPU A: -950 X: 50 PC: 7134 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -950 X: 50 PC: 7134 na CPU 
+SO: Salvando valores da CPU A: 57 X: 57 PC: 7131 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 57 X: 57 PC: 7131 na CPU 
+SO: Salvando valores da CPU A: 64 X: 64 PC: 7124 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 64 X: 64 PC: 7124 na CPU 
+SO: Salvando valores da CPU A: -930 X: 70 PC: 7122 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -930 X: 70 PC: 7122 na CPU 
+SO: Salvando valores da CPU A: 77 X: 77 PC: 7132 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 77 X: 77 PC: 7132 na CPU 
+SO: Salvando valores da CPU A: 84 X: 84 PC: 7126 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 84 X: 84 PC: 7126 na CPU 
+SO: Salvando valores da CPU A: -910 X: 91 PC: 7123 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -910 X: 91 PC: 7123 na CPU 
+SO: Salvando valores da CPU A: -903 X: 97 PC: 7134 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -903 X: 97 PC: 7134 na CPU 
+SO: Salvando valores da CPU A: 104 X: 104 PC: 7131 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 104 X: 104 PC: 7131 na CPU 
+SO: Salvando valores da CPU A: 111 X: 111 PC: 7124 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 111 X: 111 PC: 7124 na CPU 
+SO: Salvando valores da CPU A: -883 X: 117 PC: 7122 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -883 X: 117 PC: 7122 na CPU 
+SO: Salvando valores da CPU A: 124 X: 124 PC: 7132 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 124 X: 124 PC: 7132 na CPU 
+SO: Salvando valores da CPU A: 131 X: 131 PC: 7126 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 131 X: 131 PC: 7126 na CPU 
+SO: Salvando valores da CPU A: -863 X: 138 PC: 7123 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -863 X: 138 PC: 7123 na CPU 
+SO: Salvando valores da CPU A: -856 X: 144 PC: 7134 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -856 X: 144 PC: 7134 na CPU 
+SO: Salvando valores da CPU A: 151 X: 151 PC: 7131 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 151 X: 151 PC: 7131 na CPU 
+SO: Salvando valores da CPU A: 158 X: 158 PC: 7124 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 158 X: 158 PC: 7124 na CPU 
+SO: Salvando valores da CPU A: -836 X: 164 PC: 7122 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -836 X: 164 PC: 7122 na CPU 
+SO: Salvando valores da CPU A: 171 X: 171 PC: 7132 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 171 X: 171 PC: 7132 na CPU 
+SO: Salvando valores da CPU A: 178 X: 178 PC: 7126 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 178 X: 178 PC: 7126 na CPU 
+SO: Salvando valores da CPU A: -816 X: 185 PC: 7123 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -816 X: 185 PC: 7123 na CPU 
+SO: Salvando valores da CPU A: -809 X: 191 PC: 7134 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -809 X: 191 PC: 7134 na CPU 
+SO: Salvando valores da CPU A: 198 X: 198 PC: 7131 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 198 X: 198 PC: 7131 na CPU 
+SO: Salvando valores da CPU A: 205 X: 205 PC: 7124 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 205 X: 205 PC: 7124 na CPU 
+SO: Salvando valores da CPU A: -789 X: 211 PC: 7122 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -789 X: 211 PC: 7122 na CPU 
+SO: Salvando valores da CPU A: 218 X: 218 PC: 7132 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 218 X: 218 PC: 7132 na CPU 
+SO: Salvando valores da CPU A: 225 X: 225 PC: 7126 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 225 X: 225 PC: 7126 na CPU 
+SO: Salvando valores da CPU A: -769 X: 232 PC: 7123 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -769 X: 232 PC: 7123 na CPU 
+SO: Salvando valores da CPU A: -762 X: 238 PC: 7134 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -762 X: 238 PC: 7134 na CPU 
+SO: Salvando valores da CPU A: 245 X: 245 PC: 7131 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 245 X: 245 PC: 7131 na CPU 
+SO: Salvando valores da CPU A: 252 X: 252 PC: 7124 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 252 X: 252 PC: 7124 na CPU 
+SO: Salvando valores da CPU A: -742 X: 258 PC: 7122 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -742 X: 258 PC: 7122 na CPU 
+SO: Salvando valores da CPU A: 265 X: 265 PC: 7132 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 265 X: 265 PC: 7132 na CPU 
+SO: Salvando valores da CPU A: 272 X: 272 PC: 7126 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 272 X: 272 PC: 7126 na CPU 
+SO: Salvando valores da CPU A: -722 X: 279 PC: 7123 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -722 X: 279 PC: 7123 na CPU 
+SO: Salvando valores da CPU A: -715 X: 285 PC: 7134 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -715 X: 285 PC: 7134 na CPU 
+SO: Salvando valores da CPU A: 292 X: 292 PC: 7131 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 292 X: 292 PC: 7131 na CPU 
+SO: Salvando valores da CPU A: 299 X: 299 PC: 7124 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 299 X: 299 PC: 7124 na CPU 
+SO: Salvando valores da CPU A: -695 X: 305 PC: 7122 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -695 X: 305 PC: 7122 na CPU 
+SO: Salvando valores da CPU A: 312 X: 312 PC: 7132 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 312 X: 312 PC: 7132 na CPU 
+SO: Salvando valores da CPU A: 319 X: 319 PC: 7126 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 319 X: 319 PC: 7126 na CPU 
+SO: Salvando valores da CPU A: -675 X: 326 PC: 7123 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -675 X: 326 PC: 7123 na CPU 
+SO: Salvando valores da CPU A: -668 X: 332 PC: 7134 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -668 X: 332 PC: 7134 na CPU 
+SO: Salvando valores da CPU A: 339 X: 339 PC: 7131 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 339 X: 339 PC: 7131 na CPU 
+SO: Salvando valores da CPU A: 346 X: 346 PC: 7124 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 346 X: 346 PC: 7124 na CPU 
+SO: Salvando valores da CPU A: -648 X: 352 PC: 7122 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -648 X: 352 PC: 7122 na CPU 
+SO: Salvando valores da CPU A: 359 X: 359 PC: 7132 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 359 X: 359 PC: 7132 na CPU 
+SO: Salvando valores da CPU A: 366 X: 366 PC: 7126 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 366 X: 366 PC: 7126 na CPU 
+SO: Salvando valores da CPU A: -628 X: 373 PC: 7123 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -628 X: 373 PC: 7123 na CPU 
+SO: Salvando valores da CPU A: -621 X: 379 PC: 7134 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -621 X: 379 PC: 7134 na CPU 
+SO: Salvando valores da CPU A: 386 X: 386 PC: 7131 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 386 X: 386 PC: 7131 na CPU 
+SO: Salvando valores da CPU A: 393 X: 393 PC: 7124 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 393 X: 393 PC: 7124 na CPU 
+SO: Salvando valores da CPU A: -601 X: 399 PC: 7122 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -601 X: 399 PC: 7122 na CPU 
+SO: Salvando valores da CPU A: 406 X: 406 PC: 7132 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 406 X: 406 PC: 7132 na CPU 
+SO: Salvando valores da CPU A: 413 X: 413 PC: 7126 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 413 X: 413 PC: 7126 na CPU 
+SO: Salvando valores da CPU A: -581 X: 420 PC: 7123 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -581 X: 420 PC: 7123 na CPU 
+SO: Salvando valores da CPU A: -574 X: 426 PC: 7134 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -574 X: 426 PC: 7134 na CPU 
+SO: Salvando valores da CPU A: 433 X: 433 PC: 7131 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 433 X: 433 PC: 7131 na CPU 
+SO: Salvando valores da CPU A: 440 X: 440 PC: 7124 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 440 X: 440 PC: 7124 na CPU 
+SO: Salvando valores da CPU A: -554 X: 446 PC: 7122 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -554 X: 446 PC: 7122 na CPU 
+SO: Salvando valores da CPU A: 453 X: 453 PC: 7132 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 453 X: 453 PC: 7132 na CPU 
+SO: Salvando valores da CPU A: 460 X: 460 PC: 7126 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 460 X: 460 PC: 7126 na CPU 
+SO: Salvando valores da CPU A: -534 X: 467 PC: 7123 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -534 X: 467 PC: 7123 na CPU 
+SO: Salvando valores da CPU A: -527 X: 473 PC: 7134 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -527 X: 473 PC: 7134 na CPU 
+SO: Salvando valores da CPU A: 480 X: 480 PC: 7131 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 480 X: 480 PC: 7131 na CPU 
+SO: Salvando valores da CPU A: 487 X: 487 PC: 7124 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 487 X: 487 PC: 7124 na CPU 
+SO: Salvando valores da CPU A: -507 X: 493 PC: 7122 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -507 X: 493 PC: 7122 na CPU 
+SO: Salvando valores da CPU A: 500 X: 500 PC: 7129 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 500 X: 500 PC: 7129 na CPU 
+SO: Salvando valores da CPU A: 2 X: 53 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 53 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 53 PC: 7160 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 0 X: 53 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 48 PC: 7160 no processo 2
+SO: Escalonando processo... Sai processo 2, entra processo 3.
+SO: Despachando processo 3 A: 0 X: 0 PC: 8000 na CPU 
+SO: Salvando valores da CPU A: 2 X: 112 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 112 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 50 PC: 8161 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 2 X: 50 PC: 8161 na CPU 
+SO: Salvando valores da CPU A: 2 X: 50 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 50 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Processo 2 desbloqueado para escrever na tela.
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 8006 X: 40 PC: 8159 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 8006 X: 40 PC: 8159 na CPU 
+SO: Salvando valores da CPU A: 2 X: 40 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 40 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 109 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 109 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: -61 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: -61 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 8009 X: -87 PC: 8157 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 8009 X: -87 PC: 8157 na CPU 
+SO: Salvando valores da CPU A: 2 X: -87 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: -87 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 100 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 100 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 105 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 105 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 97 X: 8012 PC: 8156 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 97 X: 8012 PC: 8156 na CPU 
+SO: Salvando valores da CPU A: 2 X: 97 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 97 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 67 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 67 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 80 X: 8015 PC: 8148 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 80 X: 8015 PC: 8148 na CPU 
+SO: Salvando valores da CPU A: 2 X: 80 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 80 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 85 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 85 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 44 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 44 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 32 X: 8018 PC: 8146 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 32 X: 8018 PC: 8146 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 109 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 109 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: -61 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: -61 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 0 X: 8021 PC: 8144 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 0 X: 8021 PC: 8144 na CPU 
+SO: Salvando valores da CPU A: 2 X: -87 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: -87 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 100 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 100 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 105 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 105 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 0 X: 8024 PC: 8151 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 0 X: 8024 PC: 8151 na CPU 
+SO: Salvando valores da CPU A: 2 X: 97 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 97 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 69 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 69 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 0 X: 8026 PC: 8150 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 0 X: 8026 PC: 8150 na CPU 
+SO: Salvando valores da CPU A: 2 X: 47 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 47 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 83 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 83 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 41 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 41 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 0 X: 8029 PC: 8166 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 0 X: 8029 PC: 8166 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 8032 X: 0 PC: 8165 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 8032 X: 0 PC: 8165 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 32 X: 0 PC: 8163 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 32 X: 0 PC: 8163 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 8162 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 8162 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 8162 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 8162 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 8162 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 8162 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 8162 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 8162 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 8162 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 8162 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 8162 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 1 X: 8071 PC: 8193 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 1 X: 8071 PC: 8193 na CPU 
+SO: Salvando valores da CPU A: 2 X: 50 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 50 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 0 X: 8071 PC: 8225 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 0 X: 8071 PC: 8225 na CPU 
+SO: Salvando valores da CPU A: 2 X: 48 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 48 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 48 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 48 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 8071 X: 32 PC: 8157 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 8071 X: 32 PC: 8157 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 47 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 47 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 100 X: 8071 PC: 8195 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 100 X: 8071 PC: 8195 na CPU 
+SO: Salvando valores da CPU A: 2 X: 50 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 50 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 53 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 53 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 32 X: 8071 PC: 8235 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 32 X: 8071 PC: 8235 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 91 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 91 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 3 X: 3 PC: 8128 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 3 X: 3 PC: 8128 na CPU 
+SO: Salvando valores da CPU A: -191 X: 10 PC: 8125 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: -191 X: 10 PC: 8125 na CPU 
+SO: Salvando valores da CPU A: -184 X: 16 PC: 8136 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: -184 X: 16 PC: 8136 na CPU 
+SO: Salvando valores da CPU A: 23 X: 23 PC: 8133 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 23 X: 23 PC: 8133 na CPU 
+SO: Salvando valores da CPU A: 50 X: 25 PC: 8223 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 50 X: 25 PC: 8223 na CPU 
+SO: Salvando valores da CPU A: 2 X: 50 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 50 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 53 PC: 8162 no processo 3
+SO: Escalonando processo... Sai processo 3, entra processo 2.
+SO: Despachando processo 2 A: 2 X: 48 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 48 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 48 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 48 PC: 7160 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 0 X: 48 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Escalonando processo... Sai processo 2, entra processo 4.
+SO: Despachando processo 4 A: 0 X: 0 PC: 9000 na CPU 
+SO: Salvando valores da CPU A: 2 X: 112 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 112 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 51 PC: 9160 no processo 4
+SO: Processo 3 desbloqueado para escrever na tela.
+SO: Despachando processo 4 A: 0 X: 51 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 51 PC: 9160 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 0 X: 51 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Processo 2 desbloqueado para escrever na tela.
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 40 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 40 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 40 PC: 9160 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 0 X: 40 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 112 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 112 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 111 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 111 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 117 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 117 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 117 PC: 9160 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 0 X: 117 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 99 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 99 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 97 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 97 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 9160 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 67 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 67 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 80 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 80 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 85 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 85 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 85 PC: 9160 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 0 X: 85 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 44 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 44 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 98 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 98 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 98 PC: 9160 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 0 X: 98 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 97 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 97 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 115 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 115 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 116 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 116 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 116 PC: 9160 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 0 X: 116 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 97 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 97 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 110 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 110 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 116 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 116 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 116 PC: 9160 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 0 X: 116 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 101 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 101 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 69 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 69 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 69 PC: 9160 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 0 X: 69 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 47 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 47 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 83 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 83 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 41 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 41 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 41 PC: 9160 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 0 X: 41 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 9160 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 9160 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 9160 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 9160 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 9160 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 9160 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 9160 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 9160 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 9160 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 9160 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 9160 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 9160 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 1 X: 9069 PC: 9191 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 1 X: 9069 PC: 9191 na CPU 
+SO: Salvando valores da CPU A: 2 X: 53 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 53 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 48 X: 9069 PC: 9221 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 48 X: 9069 PC: 9221 na CPU 
+SO: Salvando valores da CPU A: 2 X: 48 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 48 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 47 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 47 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 1 X: 9069 PC: 9187 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 1 X: 9069 PC: 9187 na CPU 
+SO: Salvando valores da CPU A: 2 X: 49 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 49 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 91 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 91 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 91 PC: 9160 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 0 X: 91 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 49 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 49 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 32 PC: 9160 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 50 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 50 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 0 PC: 9163 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 2 X: 0 PC: 9163 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 1 X: 3 PC: 9211 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 1 X: 3 PC: 9211 na CPU 
+SO: Salvando valores da CPU A: 2 X: 51 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 51 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Sai processo 4, entra processo 2.
+SO: Despachando processo 2 A: 2 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 502 X: 502 PC: 7124 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 502 X: 502 PC: 7124 na CPU 
+SO: Salvando valores da CPU A: -492 X: 508 PC: 7122 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Despachando processo 2 A: -492 X: 508 PC: 7122 na CPU 
+SO: Salvando valores da CPU A: 515 X: 515 PC: 7132 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 515 X: 515 PC: 7132 na CPU 
+SO: Salvando valores da CPU A: 22 X: 522 PC: 7126 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 22 X: 522 PC: 7126 na CPU 
+SO: Salvando valores da CPU A: -472 X: 529 PC: 7123 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -472 X: 529 PC: 7123 na CPU 
+SO: Salvando valores da CPU A: -465 X: 535 PC: 7134 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -465 X: 535 PC: 7134 na CPU 
+SO: Salvando valores da CPU A: 42 X: 542 PC: 7131 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 42 X: 542 PC: 7131 na CPU 
+SO: Salvando valores da CPU A: 549 X: 549 PC: 7124 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 549 X: 549 PC: 7124 na CPU 
+SO: Salvando valores da CPU A: -445 X: 555 PC: 7122 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -445 X: 555 PC: 7122 na CPU 
+SO: Salvando valores da CPU A: 562 X: 562 PC: 7132 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 562 X: 562 PC: 7132 na CPU 
+SO: Salvando valores da CPU A: 69 X: 569 PC: 7126 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 69 X: 569 PC: 7126 na CPU 
+SO: Salvando valores da CPU A: -425 X: 576 PC: 7123 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -425 X: 576 PC: 7123 na CPU 
+SO: Salvando valores da CPU A: -418 X: 582 PC: 7134 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -418 X: 582 PC: 7134 na CPU 
+SO: Salvando valores da CPU A: 89 X: 589 PC: 7131 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 89 X: 589 PC: 7131 na CPU 
+SO: Salvando valores da CPU A: 596 X: 596 PC: 7124 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 596 X: 596 PC: 7124 na CPU 
+SO: Salvando valores da CPU A: -398 X: 602 PC: 7122 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -398 X: 602 PC: 7122 na CPU 
+SO: Salvando valores da CPU A: 609 X: 609 PC: 7132 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 609 X: 609 PC: 7132 na CPU 
+SO: Salvando valores da CPU A: 116 X: 616 PC: 7126 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 116 X: 616 PC: 7126 na CPU 
+SO: Salvando valores da CPU A: -378 X: 623 PC: 7123 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -378 X: 623 PC: 7123 na CPU 
+SO: Salvando valores da CPU A: -371 X: 629 PC: 7134 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -371 X: 629 PC: 7134 na CPU 
+SO: Salvando valores da CPU A: 136 X: 636 PC: 7131 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 136 X: 636 PC: 7131 na CPU 
+SO: Salvando valores da CPU A: 643 X: 643 PC: 7124 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 643 X: 643 PC: 7124 na CPU 
+SO: Salvando valores da CPU A: -351 X: 649 PC: 7122 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -351 X: 649 PC: 7122 na CPU 
+SO: Salvando valores da CPU A: 656 X: 656 PC: 7132 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 656 X: 656 PC: 7132 na CPU 
+SO: Salvando valores da CPU A: 163 X: 663 PC: 7126 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 163 X: 663 PC: 7126 na CPU 
+SO: Salvando valores da CPU A: -331 X: 670 PC: 7123 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -331 X: 670 PC: 7123 na CPU 
+SO: Salvando valores da CPU A: -324 X: 676 PC: 7134 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -324 X: 676 PC: 7134 na CPU 
+SO: Salvando valores da CPU A: 183 X: 683 PC: 7131 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 183 X: 683 PC: 7131 na CPU 
+SO: Salvando valores da CPU A: 690 X: 690 PC: 7124 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 690 X: 690 PC: 7124 na CPU 
+SO: Salvando valores da CPU A: -304 X: 696 PC: 7122 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -304 X: 696 PC: 7122 na CPU 
+SO: Salvando valores da CPU A: 703 X: 703 PC: 7132 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 703 X: 703 PC: 7132 na CPU 
+SO: Salvando valores da CPU A: 210 X: 710 PC: 7126 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 210 X: 710 PC: 7126 na CPU 
+SO: Salvando valores da CPU A: -284 X: 717 PC: 7123 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -284 X: 717 PC: 7123 na CPU 
+SO: Salvando valores da CPU A: -277 X: 723 PC: 7134 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -277 X: 723 PC: 7134 na CPU 
+SO: Salvando valores da CPU A: 230 X: 730 PC: 7131 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 230 X: 730 PC: 7131 na CPU 
+SO: Salvando valores da CPU A: 737 X: 737 PC: 7124 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 737 X: 737 PC: 7124 na CPU 
+SO: Salvando valores da CPU A: -257 X: 743 PC: 7122 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -257 X: 743 PC: 7122 na CPU 
+SO: Salvando valores da CPU A: 750 X: 750 PC: 7132 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 750 X: 750 PC: 7132 na CPU 
+SO: Salvando valores da CPU A: 257 X: 757 PC: 7126 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 257 X: 757 PC: 7126 na CPU 
+SO: Salvando valores da CPU A: -237 X: 764 PC: 7123 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -237 X: 764 PC: 7123 na CPU 
+SO: Salvando valores da CPU A: -230 X: 770 PC: 7134 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -230 X: 770 PC: 7134 na CPU 
+SO: Salvando valores da CPU A: 277 X: 777 PC: 7131 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 277 X: 777 PC: 7131 na CPU 
+SO: Salvando valores da CPU A: 784 X: 784 PC: 7124 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 784 X: 784 PC: 7124 na CPU 
+SO: Salvando valores da CPU A: -210 X: 790 PC: 7122 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -210 X: 790 PC: 7122 na CPU 
+SO: Salvando valores da CPU A: 797 X: 797 PC: 7132 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 797 X: 797 PC: 7132 na CPU 
+SO: Salvando valores da CPU A: 304 X: 804 PC: 7126 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 304 X: 804 PC: 7126 na CPU 
+SO: Salvando valores da CPU A: -190 X: 811 PC: 7123 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -190 X: 811 PC: 7123 na CPU 
+SO: Salvando valores da CPU A: -183 X: 817 PC: 7134 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -183 X: 817 PC: 7134 na CPU 
+SO: Salvando valores da CPU A: 324 X: 824 PC: 7131 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 324 X: 824 PC: 7131 na CPU 
+SO: Salvando valores da CPU A: 831 X: 831 PC: 7124 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 831 X: 831 PC: 7124 na CPU 
+SO: Salvando valores da CPU A: -163 X: 837 PC: 7122 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -163 X: 837 PC: 7122 na CPU 
+SO: Salvando valores da CPU A: 844 X: 844 PC: 7132 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 844 X: 844 PC: 7132 na CPU 
+SO: Salvando valores da CPU A: 351 X: 851 PC: 7126 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 351 X: 851 PC: 7126 na CPU 
+SO: Salvando valores da CPU A: -143 X: 858 PC: 7123 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -143 X: 858 PC: 7123 na CPU 
+SO: Salvando valores da CPU A: -136 X: 864 PC: 7134 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -136 X: 864 PC: 7134 na CPU 
+SO: Salvando valores da CPU A: 371 X: 871 PC: 7131 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 371 X: 871 PC: 7131 na CPU 
+SO: Salvando valores da CPU A: 878 X: 878 PC: 7124 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 878 X: 878 PC: 7124 na CPU 
+SO: Salvando valores da CPU A: -116 X: 884 PC: 7122 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -116 X: 884 PC: 7122 na CPU 
+SO: Salvando valores da CPU A: 891 X: 891 PC: 7132 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 891 X: 891 PC: 7132 na CPU 
+SO: Salvando valores da CPU A: 398 X: 898 PC: 7126 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 398 X: 898 PC: 7126 na CPU 
+SO: Salvando valores da CPU A: -96 X: 905 PC: 7123 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -96 X: 905 PC: 7123 na CPU 
+SO: Salvando valores da CPU A: -89 X: 911 PC: 7134 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -89 X: 911 PC: 7134 na CPU 
+SO: Salvando valores da CPU A: 418 X: 918 PC: 7131 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 418 X: 918 PC: 7131 na CPU 
+SO: Salvando valores da CPU A: 925 X: 925 PC: 7124 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 925 X: 925 PC: 7124 na CPU 
+SO: Salvando valores da CPU A: -69 X: 931 PC: 7122 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -69 X: 931 PC: 7122 na CPU 
+SO: Salvando valores da CPU A: 938 X: 938 PC: 7132 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 938 X: 938 PC: 7132 na CPU 
+SO: Salvando valores da CPU A: 445 X: 945 PC: 7126 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 445 X: 945 PC: 7126 na CPU 
+SO: Salvando valores da CPU A: -49 X: 952 PC: 7123 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -49 X: 952 PC: 7123 na CPU 
+SO: Salvando valores da CPU A: -42 X: 958 PC: 7134 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -42 X: 958 PC: 7134 na CPU 
+SO: Salvando valores da CPU A: 465 X: 965 PC: 7131 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 465 X: 965 PC: 7131 na CPU 
+SO: Salvando valores da CPU A: 972 X: 972 PC: 7124 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 972 X: 972 PC: 7124 na CPU 
+SO: Salvando valores da CPU A: -22 X: 978 PC: 7122 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -22 X: 978 PC: 7122 na CPU 
+SO: Salvando valores da CPU A: 985 X: 985 PC: 7132 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 985 X: 985 PC: 7132 na CPU 
+SO: Salvando valores da CPU A: 492 X: 992 PC: 7126 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 492 X: 992 PC: 7126 na CPU 
+SO: Salvando valores da CPU A: -2 X: 999 PC: 7123 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: -2 X: 999 PC: 7123 na CPU 
+SO: Salvando valores da CPU A: 49 X: 1000 PC: 7221 no processo 2
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 2 A: 49 X: 1000 PC: 7221 na CPU 
+SO: Salvando valores da CPU A: 2 X: 49 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 49 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 48 PC: 7160 no processo 2
+SO: Escalonando processo... Sai processo 2, entra processo 3.
+SO: Despachando processo 3 A: 2 X: 53 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 25 X: 0 PC: 8165 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 25 X: 0 PC: 8165 na CPU 
+SO: Salvando valores da CPU A: -169 X: 31 PC: 8136 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 2 desbloqueado para escrever na tela.
+SO: Despachando processo 3 A: -169 X: 31 PC: 8136 na CPU 
+SO: Salvando valores da CPU A: 13 X: 38 PC: 8133 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 13 X: 38 PC: 8133 na CPU 
+SO: Salvando valores da CPU A: 45 X: 45 PC: 8126 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 45 X: 45 PC: 8126 na CPU 
+SO: Salvando valores da CPU A: -49 X: 50 PC: 8201 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: -49 X: 50 PC: 8201 na CPU 
+SO: Salvando valores da CPU A: 2 X: 53 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 53 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 48 PC: 8161 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 2 X: 48 PC: 8161 na CPU 
+SO: Salvando valores da CPU A: 2 X: 48 PC: 8162 no processo 3
+SO: Escalonando processo... Sai processo 3, entra processo 2.
+SO: Despachando processo 2 A: 2 X: 48 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 48 PC: 7160 no processo 2
+SO: Despachando processo 2 A: 0 X: 48 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 48 PC: 7160 no processo 2
+SO: Escalonando processo... Sai processo 2, entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 3 PC: 9164 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 2 X: 3 PC: 9164 na CPU 
+SO: Salvando valores da CPU A: 2 X: 52 PC: 9160 no processo 4
+SO: Processo 3 desbloqueado para escrever na tela.
+SO: Despachando processo 4 A: 0 X: 52 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 1 X: 4 PC: 9225 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 1 X: 4 PC: 9225 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Processo 2 desbloqueado para escrever na tela.
+SO: Escalonando processo... Sai processo 4, entra processo 2.
+SO: Despachando processo 2 A: 2 X: 48 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 7160 no processo 2
+SO: Escalonando processo... Sai processo 2, entra processo 3.
+SO: Despachando processo 3 A: 2 X: 48 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 2 desbloqueado para escrever na tela.
+SO: Processo 3 desbloqueado para escrever na tela.
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 2.
+SO: Despachando processo 2 A: 2 X: 32 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 93 PC: 7160 no processo 2
+SO: Escalonando processo... Sai processo 2, entra processo 3.
+SO: Despachando processo 3 A: 2 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: -147 X: 53 PC: 8136 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: -147 X: 53 PC: 8136 na CPU 
+SO: Salvando valores da CPU A: 10 X: 60 PC: 8133 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 2 desbloqueado para escrever na tela.
+SO: Despachando processo 3 A: 10 X: 60 PC: 8133 na CPU 
+SO: Salvando valores da CPU A: 67 X: 67 PC: 8126 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 67 X: 67 PC: 8126 na CPU 
+SO: Salvando valores da CPU A: -127 X: 73 PC: 8124 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: -127 X: 73 PC: 8124 na CPU 
+SO: Salvando valores da CPU A: 75 X: 55 PC: 8159 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 75 X: 55 PC: 8159 na CPU 
+SO: Salvando valores da CPU A: 2 X: 55 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 55 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 53 PC: 8162 no processo 3
+SO: Escalonando processo... Sai processo 3, entra processo 2.
+SO: Despachando processo 2 A: 2 X: 93 PC: 7160 na CPU 
+SO: Salvando valores da CPU A: 8 X: 0 PC: 7086 no processo 2
+SO: Matando processo PID 2...
+SO: Processo 1 desbloqueado depois de esperar processo morrer.
+SO: Escalonando processo... Sai processo 2, entra processo 1.
+SO: Despachando processo 1 A: 2 X: 2 PC: 138 na CPU 
+SO: Salvando valores da CPU A: 9 X: 3 PC: 144 no processo 1
+SO: Escalonando processo... Sai processo 1, entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 4 X: 2 PC: 9163 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 4 X: 2 PC: 9163 na CPU 
+SO: Salvando valores da CPU A: 2 X: 53 PC: 9160 no processo 4
+SO: Processo 3 desbloqueado para escrever na tela.
+SO: Despachando processo 4 A: 0 X: 53 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 0 X: 5 PC: 9223 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 0 X: 5 PC: 9223 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Sai processo 4, entra processo 3.
+SO: Despachando processo 3 A: 2 X: 53 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 3 desbloqueado para escrever na tela.
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 3.
+SO: Despachando processo 3 A: 2 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 6 X: 81 PC: 8133 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 6 X: 81 PC: 8133 na CPU 
+SO: Salvando valores da CPU A: 88 X: 88 PC: 8126 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 88 X: 88 PC: 8126 na CPU 
+SO: Salvando valores da CPU A: -106 X: 94 PC: 8124 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: -106 X: 94 PC: 8124 na CPU 
+SO: Salvando valores da CPU A: -99 X: 100 PC: 8197 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: -99 X: 100 PC: 8197 na CPU 
+SO: Salvando valores da CPU A: 2 X: 49 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 49 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 48 PC: 8162 no processo 3
+SO: Escalonando processo... Sai processo 3, entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 54 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 54 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 6 X: 0 PC: 9163 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 6 X: 0 PC: 9163 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Processo 3 desbloqueado para escrever na tela.
+SO: Escalonando processo... Sai processo 4, entra processo 3.
+SO: Despachando processo 3 A: 2 X: 48 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 48 PC: 8162 no processo 3
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 3 desbloqueado para escrever na tela.
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 3.
+SO: Despachando processo 3 A: 2 X: 48 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Escalonando processo... Sai processo 3, entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 3 X: 7 PC: 9207 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 3 X: 7 PC: 9207 na CPU 
+SO: Salvando valores da CPU A: 2 X: 55 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 3 desbloqueado para escrever na tela.
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 3.
+SO: Despachando processo 3 A: 2 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 6 X: 106 PC: 8133 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 6 X: 106 PC: 8133 na CPU 
+SO: Salvando valores da CPU A: 113 X: 113 PC: 8126 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 113 X: 113 PC: 8126 na CPU 
+SO: Salvando valores da CPU A: -81 X: 119 PC: 8124 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: -81 X: 119 PC: 8124 na CPU 
+SO: Salvando valores da CPU A: -124 X: 125 PC: 8197 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: -124 X: 125 PC: 8197 na CPU 
+SO: Salvando valores da CPU A: 2 X: 49 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 49 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 10 X: 125 PC: 8229 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 10 X: 125 PC: 8229 na CPU 
+SO: Salvando valores da CPU A: 2 X: 50 PC: 8162 no processo 3
+SO: Escalonando processo... Sai processo 3, entra processo 4.
+SO: Despachando processo 4 A: 2 X: 55 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 8 X: 8 PC: 9187 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 8 X: 8 PC: 9187 na CPU 
+SO: Salvando valores da CPU A: 2 X: 56 PC: 9160 no processo 4
+SO: Processo 3 desbloqueado para escrever na tela.
+SO: Escalonando processo... Sai processo 4, entra processo 3.
+SO: Despachando processo 3 A: 2 X: 50 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 53 PC: 8162 no processo 3
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 56 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Processo 3 desbloqueado para escrever na tela.
+SO: Escalonando processo... Sai processo 4, entra processo 3.
+SO: Despachando processo 3 A: 2 X: 53 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 3 desbloqueado para escrever na tela.
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 3.
+SO: Despachando processo 3 A: 2 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 6 X: 131 PC: 8133 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 6 X: 131 PC: 8133 na CPU 
+SO: Salvando valores da CPU A: 138 X: 138 PC: 8126 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 138 X: 138 PC: 8126 na CPU 
+SO: Salvando valores da CPU A: -56 X: 144 PC: 8124 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: -56 X: 144 PC: 8124 na CPU 
+SO: Salvando valores da CPU A: -149 X: 150 PC: 8197 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: -149 X: 150 PC: 8197 na CPU 
+SO: Salvando valores da CPU A: 2 X: 49 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 49 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 10 X: 150 PC: 8229 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 10 X: 150 PC: 8229 na CPU 
+SO: Salvando valores da CPU A: 2 X: 53 PC: 8162 no processo 3
+SO: Escalonando processo... Sai processo 3, entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 1 X: 9 PC: 9213 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 1 X: 9 PC: 9213 na CPU 
+SO: Salvando valores da CPU A: 2 X: 57 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 57 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Processo 3 desbloqueado para escrever na tela.
+SO: Escalonando processo... Sai processo 4, entra processo 3.
+SO: Despachando processo 3 A: 2 X: 53 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 48 PC: 8162 no processo 3
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 49 PC: 9160 no processo 4
+SO: Processo 3 desbloqueado para escrever na tela.
+SO: Escalonando processo... Sai processo 4, entra processo 3.
+SO: Despachando processo 3 A: 2 X: 48 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 0 X: 150 PC: 8229 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 0 X: 150 PC: 8229 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 49 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 48 PC: 9160 no processo 4
+SO: Processo 3 desbloqueado para escrever na tela.
+SO: Escalonando processo... Sai processo 4, entra processo 3.
+SO: Despachando processo 3 A: 2 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 153 X: 153 PC: 8134 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 153 X: 153 PC: 8134 na CPU 
+SO: Salvando valores da CPU A: 10 X: 160 PC: 8128 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Despachando processo 3 A: 10 X: 160 PC: 8128 na CPU 
+SO: Salvando valores da CPU A: -34 X: 167 PC: 8125 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: -34 X: 167 PC: 8125 na CPU 
+SO: Salvando valores da CPU A: -27 X: 173 PC: 8136 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: -27 X: 173 PC: 8136 na CPU 
+SO: Salvando valores da CPU A: 1000 X: 175 PC: 8211 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 1000 X: 175 PC: 8211 na CPU 
+SO: Salvando valores da CPU A: 2 X: 49 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 49 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 55 PC: 8162 no processo 3
+SO: Escalonando processo... Sai processo 3, entra processo 4.
+SO: Despachando processo 4 A: 2 X: 48 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9159 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 2 X: 32 PC: 9159 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Despachando processo 4 A: 0 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 1 X: 11 PC: 9217 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 3 desbloqueado para escrever na tela.
+SO: Despachando processo 4 A: 1 X: 11 PC: 9217 na CPU 
+SO: Salvando valores da CPU A: 2 X: 49 PC: 9160 no processo 4
+SO: Escalonando processo... Sai processo 4, entra processo 3.
+SO: Despachando processo 3 A: 2 X: 55 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 53 PC: 8162 no processo 3
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 49 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 49 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 3 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 3.
+SO: Despachando processo 3 A: 2 X: 53 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 49 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 3 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 3.
+SO: Despachando processo 3 A: 2 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 6 X: 181 PC: 8133 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Despachando processo 3 A: 6 X: 181 PC: 8133 na CPU 
+SO: Salvando valores da CPU A: 188 X: 188 PC: 8126 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 188 X: 188 PC: 8126 na CPU 
+SO: Salvando valores da CPU A: -6 X: 194 PC: 8124 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: -6 X: 194 PC: 8124 na CPU 
+SO: Salvando valores da CPU A: -199 X: 200 PC: 8197 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: -199 X: 200 PC: 8197 na CPU 
+SO: Salvando valores da CPU A: 2 X: 50 PC: 8162 no processo 3
+SO: Despachando processo 3 A: 0 X: 50 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 10 X: 200 PC: 8229 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 10 X: 200 PC: 8229 na CPU 
+SO: Salvando valores da CPU A: 2 X: 48 PC: 8162 no processo 3
+SO: Escalonando processo... Sai processo 3, entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 100 X: 12 PC: 9205 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 100 X: 12 PC: 9205 na CPU 
+SO: Salvando valores da CPU A: 2 X: 49 PC: 9160 no processo 4
+SO: Processo 3 desbloqueado para escrever na tela.
+SO: Despachando processo 4 A: 0 X: 49 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 50 PC: 9160 no processo 4
+SO: Escalonando processo... Sai processo 4, entra processo 3.
+SO: Despachando processo 3 A: 2 X: 48 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 1 X: 200 PC: 8231 no processo 3
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 3 A: 1 X: 200 PC: 8231 na CPU 
+SO: Salvando valores da CPU A: 2 X: 48 PC: 8162 no processo 3
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 3 desbloqueado para escrever na tela.
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 3.
+SO: Despachando processo 3 A: 2 X: 48 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 8162 no processo 3
+SO: Escalonando processo... Sai processo 3, entra processo 4.
+SO: Despachando processo 4 A: 2 X: 50 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 3 desbloqueado para escrever na tela.
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 3.
+SO: Despachando processo 3 A: 2 X: 32 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 2 X: 93 PC: 8162 no processo 3
+SO: Escalonando processo... Sai processo 3, entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: -3 X: 13 PC: 9195 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: -3 X: 13 PC: 9195 na CPU 
+SO: Salvando valores da CPU A: 2 X: 49 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 3 desbloqueado para escrever na tela.
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 3.
+SO: Despachando processo 3 A: 2 X: 93 PC: 8162 na CPU 
+SO: Salvando valores da CPU A: 8 X: 0 PC: 8088 no processo 3
+SO: Matando processo PID 3...
+SO: Processo 1 desbloqueado depois de esperar processo morrer.
+SO: Escalonando processo... Sai processo 3, entra processo 1.
+SO: Despachando processo 1 A: 3 X: 3 PC: 144 na CPU 
+SO: Salvando valores da CPU A: 9 X: 4 PC: 150 no processo 1
+SO: Escalonando processo... Sai processo 1, entra processo 4.
+SO: Despachando processo 4 A: 2 X: 49 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 51 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 51 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 14 X: 49 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 14 X: 49 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 49 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 49 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 52 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 52 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 15 X: 49 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 15 X: 49 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 49 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 49 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 53 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 53 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 16 X: 49 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 16 X: 49 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 49 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 49 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 54 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 54 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 17 X: 49 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 17 X: 49 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 49 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 49 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 55 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 55 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 18 X: 49 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 18 X: 49 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 49 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 49 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 56 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 56 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 19 X: 49 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 19 X: 49 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 49 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 49 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 57 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 57 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 20 X: 50 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 20 X: 50 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 50 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 50 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 48 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 48 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 21 X: 50 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 21 X: 50 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 50 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 50 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 49 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 49 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 22 X: 50 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 22 X: 50 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 50 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 50 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 50 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 50 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 23 X: 50 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 23 X: 50 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 50 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 50 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 51 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 51 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 24 X: 50 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 24 X: 50 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 50 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 50 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 52 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 52 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 25 X: 50 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 25 X: 50 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 50 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 50 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 53 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 53 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 26 X: 50 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 26 X: 50 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 50 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 50 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 54 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 54 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 27 X: 50 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 27 X: 50 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 50 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 50 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 55 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 55 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 28 X: 50 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 28 X: 50 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 50 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 50 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 56 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 56 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 29 X: 50 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 29 X: 50 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 50 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 50 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 57 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 57 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 30 X: 51 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 30 X: 51 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 51 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 51 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 48 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 48 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 31 X: 51 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 31 X: 51 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 51 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 51 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 49 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 49 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 32 X: 51 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 32 X: 51 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 51 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 51 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 50 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 50 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 33 X: 51 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 33 X: 51 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 51 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 51 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 51 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 51 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 34 X: 51 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 34 X: 51 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 51 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 51 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 52 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 52 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 35 X: 51 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 35 X: 51 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 51 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 51 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 53 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 53 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 36 X: 51 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 36 X: 51 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 51 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 51 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 54 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 54 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 37 X: 51 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 37 X: 51 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 51 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 51 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 55 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 55 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 38 X: 51 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 38 X: 51 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 51 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 51 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 56 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 56 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 39 X: 51 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 39 X: 51 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 51 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 51 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 57 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 57 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 40 X: 52 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 40 X: 52 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 52 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 52 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 48 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 48 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 41 X: 52 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 41 X: 52 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 52 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 52 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 49 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 49 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 42 X: 52 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 42 X: 52 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 52 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 52 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 50 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 50 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 43 X: 52 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 43 X: 52 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 52 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 52 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 51 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 51 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 44 X: 52 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 44 X: 52 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 52 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 52 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 52 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 52 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 45 X: 52 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 45 X: 52 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 52 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 52 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 53 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 53 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 46 X: 52 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 46 X: 52 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 52 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 52 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 54 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 54 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 47 X: 52 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 47 X: 52 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 52 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 52 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 55 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 55 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 48 X: 52 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 48 X: 52 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 52 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 52 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 56 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 56 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 49 X: 52 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 49 X: 52 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 52 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 52 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 57 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 57 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 50 X: 53 PC: 9155 no processo 4
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 4 A: 50 X: 53 PC: 9155 na CPU 
+SO: Salvando valores da CPU A: 2 X: 53 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 53 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 48 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 48 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 32 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 2 X: 93 PC: 9160 no processo 4
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: interrupcao do relogio (nao tratada)
+SO: Processo 4 desbloqueado para escrever na tela.
+SO: Escalonando processo... entra processo 4.
+SO: Despachando processo 4 A: 2 X: 93 PC: 9160 na CPU 
+SO: Salvando valores da CPU A: 8 X: 0 PC: 9086 no processo 4
+SO: Matando processo PID 4...
+SO: Processo 1 desbloqueado depois de esperar processo morrer.
+SO: Escalonando processo... Sai processo 4, entra processo 1.
+SO: Despachando processo 1 A: 4 X: 4 PC: 150 na CPU 
+SO: Salvando valores da CPU A: 2 X: 105 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 105 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 110 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 110 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 0 X: 214 PC: 252 no processo 1
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 1 A: 0 X: 214 PC: 252 na CPU 
+SO: Salvando valores da CPU A: 2 X: 105 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 105 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 116 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 116 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 32 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 32 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 0 X: 216 PC: 251 no processo 1
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 1 A: 0 X: 216 PC: 251 na CPU 
+SO: Salvando valores da CPU A: 2 X: 116 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 116 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 101 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 101 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 114 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 114 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 0 X: 219 PC: 267 no processo 1
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 1 A: 0 X: 219 PC: 267 na CPU 
+SO: Salvando valores da CPU A: 2 X: 109 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 109 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 105 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 105 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 110 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 110 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 222 X: 0 PC: 266 no processo 1
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 1 A: 222 X: 0 PC: 266 na CPU 
+SO: Salvando valores da CPU A: 2 X: 97 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 97 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 110 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 110 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 100 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 100 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 100 X: 0 PC: 264 no processo 1
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 1 A: 100 X: 0 PC: 264 na CPU 
+SO: Salvando valores da CPU A: 2 X: 111 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 111 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 46 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 46 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 46 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 46 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 0 X: 46 PC: 263 no processo 1
+SO: interrupcao do relogio (nao tratada)
+SO: Despachando processo 1 A: 0 X: 46 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 2 X: 46 PC: 263 no processo 1
+SO: Despachando processo 1 A: 0 X: 46 PC: 263 na CPU 
+SO: Salvando valores da CPU A: 8 X: 0 PC: 160 no processo 1
+SO: Matando processo PID 1...
+SO: Escalonando processo... Nenhum processo esta pronto para executar.
+SO: Todos os processos estao mortos...
+=== Métricas de Todos os Processos ===
+Metricas do Processo 1:
+  - Tempo de criacao: 0.00 s
+  - Tempo de termino: 2.99 s
+  - Tempo total nos estados:
+      * PRONTO: 0.00 s
+      * EXECUTANDO: 0.09 s
+      * BLOQUEADO: 2.89 s
+      * MORTO: 0.00 s
+  - Transicoes de estado:
+      * PRONTO: 4 vezes
+      * EXECUTANDO: 4 vezes
+      * BLOQUEADO: 3 vezes
+      * MORTO: 1 vezes
+  - Numero de preempções: 0
+  - Tempo medio de resposta: 0.00 s
+
+Metricas do Processo 2:
+  - Tempo de criacao: 0.05 s
+  - Tempo de termino: 1.50 s
+  - Tempo total nos estados:
+      * PRONTO: 0.38 s
+      * EXECUTANDO: 1.02 s
+      * BLOQUEADO: 0.05 s
+      * MORTO: 1.49 s
+  - Transicoes de estado:
+      * PRONTO: 7 vezes
+      * EXECUTANDO: 7 vezes
+      * BLOQUEADO: 6 vezes
+      * MORTO: 1 vezes
+  - Numero de preempções: 0
+  - Tempo medio de resposta: 0.05 s
+
+Metricas do Processo 3:
+  - Tempo de criacao: 0.05 s
+  - Tempo de termino: 1.81 s
+  - Tempo total nos estados:
+      * PRONTO: 1.18 s
+      * EXECUTANDO: 0.42 s
+      * BLOQUEADO: 0.16 s
+      * MORTO: 1.18 s
+  - Transicoes de estado:
+      * PRONTO: 22 vezes
+      * EXECUTANDO: 22 vezes
+      * BLOQUEADO: 21 vezes
+      * MORTO: 1 vezes
+  - Numero de preempções: 0
+  - Tempo medio de resposta: 0.05 s
+
+Metricas do Processo 4:
+  - Tempo de criacao: 0.05 s
+  - Tempo de termino: 2.95 s
+  - Tempo total nos estados:
+      * PRONTO: 1.39 s
+      * EXECUTANDO: 0.70 s
+      * BLOQUEADO: 0.81 s
+      * MORTO: 0.04 s
+  - Transicoes de estado:
+      * PRONTO: 131 vezes
+      * EXECUTANDO: 131 vezes
+      * BLOQUEADO: 130 vezes
+      * MORTO: 1 vezes
+  - Numero de preempções: 0
+  - Tempo medio de resposta: 0.01 s
+
+=== Metricas do Sistema Operacional ===
+  - Numero de processos criados: 4
+  - Tempo total de execucao: 2.99 s
+  - Tempo total ocioso: 0.77 s
+  - Numero de preempcoes: 0
+  - Interrupcoes recebidas por tipo:
+      * Tipo 0: 1 vezes
+      * Tipo 1: 0 vezes
+      * Tipo 2: 462 vezes
+      * Tipo 3: 557 vezes
+      * Tipo 4: 0 vezes
+
+CMD: 'F'
+Fim da execução.
+relógio: 30267
